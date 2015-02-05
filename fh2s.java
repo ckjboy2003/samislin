@@ -8,7 +8,7 @@
  *  2. Remove comments
  *  3. Remove subtitles
  *  4. Well organized subtitle file
- *  
+ *  5. The subtitle generator for hackpad
  */
 import java.awt.Container;
 import java.awt.FlowLayout;
